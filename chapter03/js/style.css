@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+}
+h1{
+	font-size:54px;
+	margin:10px 0;
+	text-align: center;
+}
+body{
+	background:lavender;
+	padding:10px;
+}
+h2{
+	font-size:32px;
+	border-bottom:2px dotted lightgrey;
+	margin:5px 0;
+}
+button{
+	padding:3px 5px;
+	border-radius:3px;
+}
+p{
+	padding:5px 0px;
+}
